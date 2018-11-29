@@ -1,5 +1,7 @@
+# descrição 
+- curso de git
 # Alunos
-Camilo Souto
-#Instrutor
--Fabricio
+- Camilo Souto
+# Instrutor
+- Fabricio
 
